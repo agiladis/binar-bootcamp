@@ -1,0 +1,7 @@
+DECLARE r AS INTEGER
+
+r = INPUT("Masukkan nilai jari-jari")
+
+kelilingLingkaran = 2 * pi * r
+
+OUTPUT("Keliling lingkaran : " + kelilingLingkaran)
